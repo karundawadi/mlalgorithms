@@ -10,3 +10,5 @@ Currently, the algorithms implemented are as follows:
 5) K-Nearest Neighbour Clustering 
 
 All the algorithms support datasets in which features are divided into columns (features) and the classification is in the last column. The algorithms also support any number of lines in the training data. 
+
+All the algorithms are written in python. The description of algorithms are also found inside the each algorithm folder. 
