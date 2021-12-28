@@ -1,16 +1,12 @@
 # Value Iteration algorithmn
-Implementation of value iteration algorithm in python 
-
-## Steps to run 
-1. Clone, fork, or download the repository 
-2. Run the program using Python 
+An implementation of value iteration algorithm 
 
 ## Dataformat 
 ```
 1.0,X
 .,-1.0
 ```
-- The value iteration algoritm works with the provided data format:
+- The provided data format consists of following specifications:
     - 1.0 is an starting node 
     - -1.0 is the goal node 
     - . is the empty space

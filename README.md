@@ -1,14 +1,23 @@
-# Machine learning algorithms implementation 
+# Simple machine learning algorithms implementation 
+This repository consists implementation of various machine learning algorithms. 
 
-This repository consisits of implementation of various machine learning algorithms. The algorithms implemented have their own folders, and description of the algorithm and other detail are attached to the folder itself. 
+## Steps to run
+1. Clone, fork, or download the repository 
+2. Navigate to the respective algorithm folder 
+2. Insert the datasets matching the description provided in the algorithm  
+2. Run the respective algorithm using Python 
 
-Currently, the algorithms implemented are as follows: 
-1) Naive Bayes Calssifiers 
-2) Linear Regression 
-3) Neural Networks and Backpropagation 
-4) Decision Trees 
-5) K-Nearest Neighbour Clustering 
+## Description 
+Currently, the following algorithms are implemented : 
+1. Naive Bayes Calssifiers 
+2. Linear Regression 
+3. Neural Networks and Backpropagation 
+4. Decision Trees 
+5. K-Nearest Neighbour Clustering 
+6. Value Iteration 
 
-All the algorithms support datasets in which features are divided into columns (features) and the classification is in the last column. The algorithms also support any number of lines in the training data. 
+## Future Implementation 
+- Front end system and support for more datasets are planned 
 
-All the algorithms are written in python. The description of algorithms are also found inside the each algorithm folder. 
+## Dependencies 
+- Numpy
